@@ -217,7 +217,7 @@ fieldset {
 
 .home-section-background:after {
     position: absolute;
-    background: rgba(0, 0, 0, 0.562);
+    background: rgba(0, 0, 0, 0.7);
     left: 0;
     top: 0;
     width: 100%;
