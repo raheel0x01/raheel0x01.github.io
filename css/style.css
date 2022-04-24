@@ -229,22 +229,14 @@ fieldset {
 
 .header-text {}
 
-.home-section-background h2 {
-    color: #f8f8f8;
-}
-
-
-.home-section-background h5 {
-    color: #ffffffc5;
-}
-
 .home-section-background h1 {
     color: #ffffffc5;
    
 }
-.home-section-background h4 {
+
+.home-section-background h5 {
+    padding: 0px 0px; 
     color: #ffffffc5;
-   
 }
 
    
