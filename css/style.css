@@ -96,7 +96,7 @@ fieldset {
 }
 
 .bg-cover {
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 }
 
 .grabbing {
@@ -229,18 +229,17 @@ fieldset {
 
 .header-text {}
 
-.home-section-background h1 {
+.home-section-background p {
     color: #ffffffc5;
    
 }
 
 .home-section-background h5 {
+    font-size: small;
     padding: 0px 0px; 
     color: #ffffffc5;
 }
 
-   
-}
 
 .home-section-background h4 {
     color: #ffffffc5;
